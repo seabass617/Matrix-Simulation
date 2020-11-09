@@ -1,2 +1,3 @@
-# p5Extravaganza
-Hosting my current p5 project
+# Matrix Simulation
+
+Credit for this project goes to Emily Xie, who made a tutorial on youtube.
