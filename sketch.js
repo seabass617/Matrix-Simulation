@@ -12,8 +12,10 @@ function windowResized() {
 
 function setup() {
 
-	let clientHeight = document.getElementById('window').clientHeight;
-	let clientWidth = document.getElementById('window').clientWidth;
+
+
+	// let clientHeight = document.getElementById('window').clientHeight;
+	// let clientWidth = document.getElementById('window').clientWidth;
 
 	canvas = createCanvas (clientWidth, clientHeight);
 	canvas.position(0,0);
