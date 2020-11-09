@@ -12,8 +12,8 @@ function windowResized() {
 
 function setup() {
 
-	let clientHeight = document.getElementById('banner').clientHeight;
-	let clientWidth = document.getElementById('banner').clientWidth;
+	let clientHeight = document.getElementById('window').clientHeight;
+	let clientWidth = document.getElementById('window').clientWidth;
 
 	canvas = createCanvas (clientWidth, clientHeight);
 	canvas.position(0,0);
