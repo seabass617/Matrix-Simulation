@@ -7,7 +7,7 @@ let streams = [];
 let character_array = [];
 
 function windowResized() {
-	resizeCanvas(clientWidth, clientheight);
+	resizeCanvas(clientWidth, clientHeight);
 }
 
 function setup() {
