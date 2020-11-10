@@ -63,8 +63,6 @@ function draw() {
 //===========================================
 
 
-
-
 //Stream Class (Comprised of Characters)
 class Stream {
 	constructor(){
